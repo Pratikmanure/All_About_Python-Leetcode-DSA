@@ -1,4 +1,4 @@
-
+#use the concept two pointer to find the valid quadruple of the given array
 
 nums = [1, 0, -1, 0, -2, 2]
 target = 0
