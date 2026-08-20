@@ -18,3 +18,5 @@ if is_palindrome == True:
     print("it is a palindrome")
 else:
     print("its not a palindrome")
+
+#O/P = "it is a palindrome"
