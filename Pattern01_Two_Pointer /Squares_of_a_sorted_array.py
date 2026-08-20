@@ -20,3 +20,5 @@ while left <= right:
     position -= 1
 
 print(result)
+
+#O/P = [0,1,9,16,100]
